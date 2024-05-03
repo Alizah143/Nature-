@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(ae1ed65f-2b24-4314-a68d-a8d4a7a659f3.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.top{
+    justify-content: space-between;
+    padding: 8px;
+    display: flex;
+    color: white;
+}
+.logo a{
+    color: white;
+    font-weight: 800;
+    text-align: start;
+    font-size: 2rem;
+   text-decoration: none;    
+}
+.signup{
+    margin-top: 13px;
+    margin-left: -1rem;
+}
+.signup a{
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    font-size: 15px;
+    border: none;
+    margin-left: -3rem;
+    border-radius: 15px;
+    padding: 5px 5px 5px 5px;
+}
+.heading h1{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-size: 4rem;
+    font-weight: 700;
+    padding: 13rem;
+}
+.date {
+    justify-content: end;
+    margin: 10px;
+    color: white;
+}
+.date h1{
+    font-size: 22px;
+}
+.date h1 span{
+    font-size: 13px;
+}
+.social-links{
+    justify-content: end;
+    float: right;
+    margin-top: -3rem;
+    margin-left: -5rem;
+    padding: 11px;
+}
+.social-links a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    margin: 3px;
+}
+.second{
+    min-width: 80vw;
+    min-height: 100vh;
+    color: white;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+.second h1{
+    text-decoration: wavy;
+    margin-top: -19rem;
+}
+.second h4{
+    margin-left: -23rem;
+    margin-top: -5rem;
+    font-weight: 300;
+    font-style: italic;
+}
+.second .img1 img{
+    margin-top: -7rem;
+}
+.second .img3 img{
+    margin-top: -7rem;
+}
+.end {
+    justify-content: end;
+    text-align: center;
+    background-image: url(58562da6-f7af-4b10-a580-373d6bb46ad0.gif);
+    align-items: center;
+}
+.end a{
+    text-decoration: none;
+    padding: 12px;
+    color: white;
+    font-size: 19px;
+    font-weight: 700;
+}
